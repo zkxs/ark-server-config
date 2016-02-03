@@ -17,3 +17,5 @@ cat GameUserSettings.ini | sed \
 	-e "s/RCONPort=.*/RCONPort=$PORT/" \
 	> realconfig/GameUserSettings.ini
 
+chgrp steamcmd realconfig/GameUserSettings.ini
+chmod g+rw realconfig/GameUserSettings.ini
