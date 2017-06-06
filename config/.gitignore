@@ -1,5 +1,2 @@
 # Files containing sensitive setting values
 *.secret
-
-# Symlink to real config location
-/realconfig
