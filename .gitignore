@@ -5,5 +5,6 @@ package
 public
 rcon
 rcon.c
+runforever
 steamcmd.sh
 steam.sh
