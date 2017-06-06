@@ -1,5 +1,9 @@
-# Files containing sensitive setting values
-*.secret
-
-# Symlink to real config location
-/realconfig
+linux32
+linux64
+listplayers.log
+package
+public
+rcon
+rcon.c
+steamcmd.sh
+steam.sh
