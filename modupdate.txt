@@ -1,0 +1,9 @@
+login anonymous
+force_install_dir ./ark
+workshop_download_item 346110 731604991 validate
+workshop_download_item 346110 764755314 validate
+workshop_download_item 346110 845855498 validate
+workshop_download_item 346110 812655342 validate
+workshop_download_item 346110 751991809 validate
+workshop_download_item 346110 893834064 validate
+quit

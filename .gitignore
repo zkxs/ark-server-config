@@ -1,13 +1,4 @@
-# Bullshit to include a really deep symlink and noting else
-/ark/*
-!/ark/steamapps/
-/ark/steamapps/*
-!/ark/steamapps/workshop/
-/ark/steamapps/workshop/*
-!/ark/steamapps/workshop/content/
-/ark/steamapps/workshop/content/*
-!/ark/steamapps/workshop/content/346110
-
+/ark
 /linux32
 /linux64
 /listplayers.log
