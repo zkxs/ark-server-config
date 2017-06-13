@@ -6,6 +6,7 @@ cp -a Game.ini realconfig/
 cp -a Input.ini realconfig/
 cp -a Lightmass.ini realconfig/
 cp -a Scalability.ini realconfig/
+chmod ug+rw realconfig/*
 
 ADMINPASS=$(cat ServerAdminPassword.secret)
 PASS=$(cat ServerPassword.secret)
