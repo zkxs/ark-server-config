@@ -1,2 +1,2 @@
 #!/bin/sh
-cat GameUserSettings.ini | sed -n 's/ServerAdminPassword=//p'
+cat config/realconfig/GameUserSettings.ini | sed -n 's/ServerAdminPassword=//p'
