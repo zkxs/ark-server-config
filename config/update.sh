@@ -7,6 +7,7 @@ cp -a Input.ini realconfig/
 cp -a Lightmass.ini realconfig/
 cp -a Scalability.ini realconfig/
 chmod ug+rw realconfig/*
+chgrp steamcmd realconfig/*
 
 ADMINPASS=$(cat ServerAdminPassword.secret)
 PASS=$(cat ServerPassword.secret)
